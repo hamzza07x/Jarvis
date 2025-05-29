@@ -1,40 +1,42 @@
 # 🤖 Jarvis - Your Personal AI Voice Assistant
 
-![Jarvis GIF]([https://your-gif-link-here.com/jarvis.gif](https://raw.githubusercontent.com/hamzza07x/Jarvis/refs/heads/main/assets/jarvis.gif))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamzza07x/Jarvis/refs/heads/main/assets/jarvis.gif" alt="Jarvis GIF" width="500"/>
+</p>
 
-Jarvis is a powerful voice assistant built in Python that listens, thinks, and speaks. It handles tasks like opening websites, playing music, retrieving the latest news and weather, sending emails, and much more — all hands-free through voice commands.
+Jarvis is your futuristic Python-powered voice assistant that listens, thinks, and responds. From playing music to sending emails and fetching the latest news or weather, Jarvis makes daily tasks effortless with voice commands — smart, fast, and hands-free.
 
 ---
 
 ## ✨ Features
 
-- 🎙️ **Voice Recognition** – Understands and processes voice commands
-- 🗣️ **Speech Synthesis** – Talks back to you with realistic voice output
-- 🔍 **Wikipedia Integration** – Summarizes topics using Wikipedia
-- 🌤️ **Weather Reports** – Retrieves current weather via API
-- 📰 **Latest News Updates** – Reads headlines and news summaries
-- 🎵 **Play Music on YouTube** – Simply say your favorite song
-- 💬 **Send WhatsApp Messages** – Hands-free communication
-- 📧 **Send Emails** – Composes and sends emails via SMTP
-- 📅 **Tells Date & Time** – Provides current date and time
-- 🌐 **Opens Websites** – Instantly launch websites via voice
-- 💻 **System Integration** – Opens apps and performs OS-level tasks
+- 🎙️ **Voice Recognition** – Understands and processes voice commands  
+- 🗣️ **Speech Synthesis** – Speaks back with natural-sounding responses  
+- 🔍 **Wikipedia Integration** – Summarizes topics on demand  
+- 🌤️ **Weather Reports** – Retrieves live weather updates via API  
+- 📰 **News Headlines** – Reads out the latest top stories  
+- 🎵 **YouTube Music Playback** – Just say your favorite song  
+- 💬 **WhatsApp Messaging** – Sends messages hands-free  
+- 📧 **Email Functionality** – Compose and send via SMTP  
+- 📅 **Time & Date Info** – Announces current time and date  
+- 🌐 **Web Launcher** – Opens websites instantly  
+- 💻 **System Integration** – Opens apps and performs OS-level tasks  
 
 ---
 
 ## 🧰 Tools & Technologies Used
 
-| Tool / Library | Purpose |
-|----------------|---------|
-| ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) **Python** | Main programming language |
-| ![Speech Recognition](https://cdn-icons-png.flaticon.com/512/724/724715.png) `speech_recognition` | Converts voice to text |
-| ![Text-to-Speech](https://cdn-icons-png.flaticon.com/512/2910/2910768.png) `pyttsx3` | Text-to-speech synthesis |
-| ![PyWhatKit](https://cdn-icons-png.flaticon.com/512/906/906361.png) `pywhatkit` | Play music, handle WhatsApp |
-| ![Wikipedia](https://cdn-icons-png.flaticon.com/512/733/733579.png) `wikipedia` | Fetch topic summaries |
-| ![Email](https://cdn-icons-png.flaticon.com/512/561/561127.png) `smtplib` | Send emails |
-| ![API](https://cdn-icons-png.flaticon.com/512/906/906334.png) `requests` + `json` | API calls for news/weather |
-| ![System Integration](https://cdn-icons-png.flaticon.com/512/1828/1828919.png) `datetime`, `os`, `webbrowser` | System integration |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20"/> Tool / Library | Purpose |
+|------------------|---------|
+| **Python** | Main programming language |
+| <img src="https://cdn-icons-png.flaticon.com/512/724/724715.png" width="20"/> `speech_recognition` | Converts voice to text |
+| <img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="20"/> `pyttsx3` | Text-to-speech synthesis |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="20"/> `pywhatkit` | YouTube playback, WhatsApp messaging |
+| <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20"/> `wikipedia` | Retrieves summaries from Wikipedia |
+| <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="20"/> `smtplib` | Email sending via SMTP |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="20"/> `requests` + `json` | Handles API requests for news & weather |
+| <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="20"/> `datetime`, `os`, `webbrowser` | System-level interactions |
 
 ---
 
-> Made with ❤️ in Python by Muhammad Hamza
+> 🚀 Made with ❤️ in Python by **Muhammad Hamza**
