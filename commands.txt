@@ -1,0 +1,77 @@
+---
+
+### 📜 Jarvis AI - Supported Voice Commands
+
+#### 🌐 Open Websites:
+
+* "open youtube"
+* "open google"
+* "open stackoverflow"
+* "open github"
+* "open linkedin"
+* "open facebook"
+* "open twitter"
+* "open instagram"
+* "open whatsapp"
+* "open gmail"
+* "open reddit"
+* "open spotify"
+* "open netflix"
+* "open amazon"
+
+#### 🎵 Media:
+
+* "play music"
+
+#### 📆 Date and Time:
+
+* "date"
+
+#### 🧠 About Jarvis:
+
+* "who are you"
+* "what can you do"
+* "how are you"
+* "how old are you"
+* "who is your creator"
+
+#### 👤 Personal Info:
+
+* "how old am i"
+* "when was i born"
+
+#### 🛠️ Applications:
+
+* "open notepad"
+* "open code"
+* "open visual studio"
+
+#### 📧 Email:
+
+* "send email"
+
+#### 🔍 Search and Information:
+
+* "wikipedia \[your query]"
+* "search" / "find"
+
+#### ☁️ Weather and News:
+
+* "weather"
+* "news"
+
+#### 🤣 Fun:
+
+* "joke"
+
+#### 💻 System Commands:
+
+* "shutdown" / "shut down" / "quit" / "exit"
+* "restart"
+* "sleep"
+* "shutdown computer"
+* "turn off computer"
+
+---
+
+
