@@ -1,6 +1,9 @@
 # 🤖 Jarvis - Your Personal AI Voice Assistant
 
-![Jarvis GIF](https://raw.githubusercontent.com/hamzza07x/Jarvis/refs/heads/main/assets/jarvis.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamzza07x/Jarvis/refs/heads/main/assets/jarvis.gif" alt="Jarvis GIF" width="500"/>
+</p>
+
 
 
 Jarvis is your futuristic Python-powered voice assistant that listens, thinks, and responds. From playing music to sending emails and fetching the latest news or weather, Jarvis makes daily tasks effortless with voice commands — smart, fast, and hands-free.
